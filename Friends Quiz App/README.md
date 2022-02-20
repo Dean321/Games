@@ -15,3 +15,7 @@ Screenshots:
 ![2](https://user-images.githubusercontent.com/17800800/154850954-81824f54-37a6-43f0-91c1-9658fb0e97cd.png)
 
 ![3](https://user-images.githubusercontent.com/17800800/154850957-5e63b4ca-69f4-4296-9954-17a9bdcb2ab0.png)
+
+Create your Firebase Realtime Database like this:
+
+![2](https://user-images.githubusercontent.com/17800800/154851901-2889cde2-828e-4ab7-bfcd-63dc43dc05e7.png)
