@@ -6,6 +6,8 @@ A simple quiz created for all Fans of the popular TV show Friends with p5.play, 
 
 Enjoy playing the quiz. Hope you like it.
 
+### NOTE: You're score will be saved.
+
 ![](https://media1.tenor.com/images/304b4d4b609cd81b3832f07acd9ed844/tenor.gif?itemid=19442771)
 
 Screenshots:
