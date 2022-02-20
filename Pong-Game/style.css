@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin:0 auto;
+}
+h1{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
