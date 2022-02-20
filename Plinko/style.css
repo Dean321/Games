@@ -1,0 +1,13 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #581845;
+}
+h1{
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    color: #fff;
+}
+body{
+    background-color:#DA93FF;
+}
