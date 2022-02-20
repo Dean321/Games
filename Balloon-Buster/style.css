@@ -1,0 +1,20 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+  font-family: 'Neucha', cursive;
+  font-size:2rem;
+}
+
+h1{
+  font-family: 'Berkshire Swash', cursive;
+  text-align: center;
+  font-size:5rem;
+  text-decoration: underline;
+}
