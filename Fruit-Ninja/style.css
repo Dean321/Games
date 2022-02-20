@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #64C9CF;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+h1{
+  text-align: center;
+  font-family: 'Rye', cursive;
+  font-size:3.2rem;
+  color: #383E56;
+  font-style: bold;
+}
+.grid{
+  display: flex;
+  
+}
+.item{
+  flex:1;
+}
