@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+canvas {
+  display: block;
+  margin:auto ;
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Fredericka the Great', cursive;
+  color:white;
+}
