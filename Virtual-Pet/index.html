@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>🐶Virtual Pet</title>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.sound.min.js"></script>
+      <script src="p5.play.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.2.2/firebase-app.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.2.2/firebase-database.js"></script>
+      <script>
+        var firebaseConfig = {
+          apiKey: "AIzaSyBHNEyhE1_1UYFxfyvk7y8pMq22WRTxZw0",
+  authDomain: "virtual-pet-d4cbd.firebaseapp.com",
+  databaseURL: "https://virtual-pet-d4cbd-default-rtdb.firebaseio.com",
+  projectId: "virtual-pet-d4cbd",
+  storageBucket: "virtual-pet-d4cbd.appspot.com",
+  messagingSenderId: "456002974234",
+  appId: "1:456002974234:web:e482e67c38e995b85697a3"
+        };
+        firebase.initializeApp(firebaseConfig);
+      </script>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Notable&display=swap" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="style.css"/>
+    </head>
+    <body>
+      <h1>Virtual Pet</h1>
+      <script src="sketch.js"></script>
+    </body>
+  </html>

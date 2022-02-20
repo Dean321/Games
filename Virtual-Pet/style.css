@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+  margin:0 auto;
+  display: block;
+}
+h1{
+  text-align: center;
+  font-family: 'Notable', sans-serif;
+  font-size:3rem;
+}
