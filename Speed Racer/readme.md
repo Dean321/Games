@@ -11,3 +11,7 @@
 ![image](https://user-images.githubusercontent.com/17800800/210697728-4e045be4-2088-48b3-bc84-f7419c45aa56.png)
 
 ![image](https://user-images.githubusercontent.com/17800800/210697818-6a7c99b5-7bca-498d-8d8d-2e71e873a5f6.png)
+
+Firebase setup: 
+
+![image](https://user-images.githubusercontent.com/17800800/210699246-33e698c1-341d-4e38-ac40-c035c5d41224.png)
