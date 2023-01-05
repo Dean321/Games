@@ -1,0 +1,43 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
+
+.title{
+  width: 80%;
+  height: 100px;
+}
+
+.input{
+  width:200px;
+  height: 35px;
+  border-radius: 17px;
+  background-color: #C0DEFF;
+  border-color: #BFEAF5;
+  padding: 5px;
+  color: #0A2647;
+  text-align: center;
+}
+
+.playBtn{
+  width:100px;
+  height: 35px;
+  font-size: 18px;
+  background-color: #E14D2A;
+  font-weight: bold;
+  border-radius: 15px;
+  border-width: 0ch;
+  /* font-family: "Vollkorn"; */
+}
+.greeting{
+  font-size: 32px;
+  font-family: "Vollkorn";
+  color: #E1FFEE;
+  font-weight: bold;
+  
+}
